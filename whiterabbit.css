@@ -1,0 +1,17 @@
+/* PAGE RULES */
+
+html, body {
+    margin: 0px;
+    font-family: Arial;
+    font-variant: small-caps;
+    background-color: #000000;
+    color: #f7f7f5;
+
+}
+
+
+
+p, h1, h2, h3, h4, h5, h6, form {
+    text-align: center;
+}
+
